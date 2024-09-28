@@ -2,7 +2,7 @@
 name = "your_project_name"
 version = "0.1.0"
 description = "A brief description of your project."
-authors = ["Your Name <your.email@example.com>"]
+authors = ["MrCode200 <navidyaghmaei@example.com>"]
 license = "MIT"  # Change as needed
 readme = "README.md"  # Optional
 homepage = "https://github.com/yourusername/your_project_name"  # Change as needed
